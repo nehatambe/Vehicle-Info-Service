@@ -12,7 +12,6 @@ The easiest way to get started is to clone repository
 ```
 $ git clone https://github.com/nehatambe/Vehicle-Info-Service.git
 ```
-                    	OR
 Download the zip file from above repository and Unzip it.
  
 Update application.properties file to change database name and port. Package the code into a jar file using maven commands. 
