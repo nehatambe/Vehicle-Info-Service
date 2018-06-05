@@ -8,7 +8,7 @@
  
 Steps to launch an application:
 
-The easiest way to get started is to clone repository
+The easiest way to get started is to clone repository.
 ```
 $ git clone https://github.com/nehatambe/Vehicle-Info-Service.git
 ```
